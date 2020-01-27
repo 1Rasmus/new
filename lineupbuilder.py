@@ -8,7 +8,6 @@ Created on Tue Jan  7 18:24:29 2020
 import pandas as pd
 from random import randrange
 from operator import itemgetter, attrgetter
-from prettytable import PrettyTable
 import numpy as np
 
 
